@@ -9,3 +9,6 @@ In this challenge I had to create a password generator in Javascript when a butt
  4. The following prompt asks the user if they want to use numbers.
  5. The final prompt asks the user if they want to use lower case letters.
  6. They will then see their new password in the "Your Secure Password" text box
+
+##Live Link
+https://probinet.github.io/passwordGenerator/
