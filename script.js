@@ -66,7 +66,7 @@ function numbersQuestion() {
     alert("Please answer Yes or No");
     numbersQuestion();
   }
-  return numberCheck;
+  return useNumber;
 }
 
 //Ask user if they want to use special characters
@@ -87,7 +87,7 @@ function specialQuestion() {
     alert("Please answer Yes or No");
     specialQuestion();
   }
-  return specialCheck;
+  return useSpecial;
 }
 
 //Generate password
